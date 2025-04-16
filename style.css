@@ -1,0 +1,11 @@
+.h2 {
+    display: none;
+}
+
+.ok {
+    display: block;
+    margin: 0 auto;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: rgb(17, 16, 16);
+}
